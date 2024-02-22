@@ -5,10 +5,10 @@
 1. Copy this repository:
 
 ```bash
-git clone https://github.com/noxonsu/unifactory
+git clone https://github.com/mygithubid/unidex
 ```
 
-2. Add new content in the end of the file: [networks.json](https://github.com/noxonsu/unifactory/blob/main/src/networks.json). In the source this can be found along the way `src/networks.json`. Content structure:
+2. Add new content in the end of the file: [networks.json](https://github.com/mygithubid/unidex/blob/main/src/networks.json). In the source this can be found along the way `src/networks.json`. Content structure:
 
 > At the same time, you can add a test network. Because new networks have to be tested.
 
