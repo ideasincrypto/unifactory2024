@@ -1,6 +1,5 @@
 # How to add a new network
 
-> We're usually busy. So if you can test this locally, it would be much faster to add a network. Perform all the basic user and admin actions and attach screenshots to the pool request.
 
 1. Copy this repository:
 
@@ -41,7 +40,7 @@ git clone https://github.com/mygithubid/unidex
 },
 ```
 
-> In the end do not forget to verify `multicall` and `wrappedToken` contracts in the network explorer. If it's not verified yet.
+> Make sure to verify `multicall` and `wrappedToken` contracts in the network explorer. If it's not verified yet.
 
 3. Add a network logo in the `src/assets/images/<chain symbol>.png` (**.png** or **.svg** formats). Import a new logo image in `src/assets/images/index.ts` in the same directory.
 
